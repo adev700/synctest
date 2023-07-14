@@ -1,0 +1,2 @@
+# synctest
+a test repository
